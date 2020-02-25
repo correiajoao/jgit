@@ -1,3 +1,12 @@
+Testes gerados pela ferramenta EvoSuite
+===================
+* [CloneCommand_ESTest.java](https://github.com/correiajoao/jgit/blob/master/org.eclipse.jgit/src/evo/org/eclipse/jgit/api/CloneCommand_ESTest.java)
+* [CommitGraphPane_ESTest.java](org.eclipse.jgit.ui/src/evo/org/eclipse/jgit/awtui/CommitGraphPane_ESTest.java)
+* [HunkHeader_ESTest.java](https://github.com/correiajoao/jgit/blob/master/org.eclipse.jgit/src/evo/org/eclipse/jgit/patch/HunkHeader_ESTest.java)
+* [FileBasedConfig_ESTest.java](https://github.com/correiajoao/jgit/blob/master/org.eclipse.jgit/src/evo/org/eclipse/jgit/storage/file/FileBasedConfig_ESTest.java)
+* [JGitClientSession_ESTest.java](https://github.com/correiajoao/jgit/blob/master/org.eclipse.jgit.ssh.apache/src/evo/org/eclipse/jgit/internal/transport/sshd/JGitClientSession_ESTest.java)
+
+
 # Java Git
 
 An implementation of the Git version control system in pure Java.
