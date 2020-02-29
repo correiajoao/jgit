@@ -28,7 +28,7 @@ public class JGitClientSession_ESTest extends JGitClientSession_ESTest_scaffoldi
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, o construtor
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o construtor
     *     JGitClientSession() com parâmetros inválidos lança uma IllegalStateException.
     *
     * Compreensivel: sim
@@ -58,7 +58,7 @@ public class JGitClientSession_ESTest extends JGitClientSession_ESTest_scaffoldi
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, o construtor
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o construtor
     *     JGitClientSession() com parâmetros inválidos lança uma IllegalArgumentException.
     *
     * Compreensivel: sim
@@ -88,7 +88,7 @@ public class JGitClientSession_ESTest extends JGitClientSession_ESTest_scaffoldi
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, o construtor
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o construtor
     *     JGitClientSession() com parâmetros inválidos lança uma NullPointerException.
     *
     * Compreensivel: sim

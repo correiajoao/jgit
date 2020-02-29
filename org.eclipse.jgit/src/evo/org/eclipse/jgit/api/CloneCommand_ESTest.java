@@ -66,7 +66,7 @@ public class CloneCommand_ESTest extends CloneCommand_ESTest_scaffolding {
   *
   * Plausível: sim
   *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s. Em seguida, se a chamada
-  *     do método verifyDirectories() lança uma NullPointerException.
+  *     ao método verifyDirectories() lança uma NullPointerException.
   *
   * Compreensivel: sim
   *     - O comportamento do teste e suas instruções são compreensíveis.

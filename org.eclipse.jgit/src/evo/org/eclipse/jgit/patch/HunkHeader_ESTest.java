@@ -230,7 +230,7 @@ public class HunkHeader_ESTest extends HunkHeader_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste possui duplicações em relação ao 0, 4, 5, 6.
+    *     - O teste possui duplicações em relação ao 0, 4, 5 e 6.
     *
     * Compreensivel: sim
     *     - O comportamento do teste e suas instruções são compreesíveis.
@@ -250,7 +250,7 @@ public class HunkHeader_ESTest extends HunkHeader_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste possui duplicações em relação ao 0, 4, 5, 6, 8.
+    *     - O teste possui duplicações em relação ao 0, 4, 5, 6 e 8.
     *
     * Compreensivel: sim
     *     - O comportamento do teste e suas instruções são compreesíveis.
@@ -270,7 +270,7 @@ public class HunkHeader_ESTest extends HunkHeader_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste possui duplicações em relação ao 0, 4, 5, 6, 8.
+    *     - O teste possui duplicações em relação ao 0, 4, 5, 6 e 8.
     *
     * Compreensivel: sim
     *     - O comportamento do teste e suas instruções são compreesíveis.
@@ -314,7 +314,7 @@ public class HunkHeader_ESTest extends HunkHeader_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste possui duplicações em relação ao 0, 4, 5, 6, 8, 10.
+    *     - O teste possui duplicações em relação ao 0, 4, 5, 6, 8 e 10.
     *
     * Compreensivel: sim
     *     - O comportamento do teste e suas instruções são compreesíveis.
@@ -335,7 +335,7 @@ public class HunkHeader_ESTest extends HunkHeader_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste possui duplicações em relação ao 0, 4, 5, 6, 8, 10, 12.
+    *     - O teste possui duplicações em relação ao 0, 4, 5, 6, 8, 10 e 12.
     *
     * Compreensivel: sim
     *     - O comportamento do teste e suas instruções são compreesíveis.
@@ -356,7 +356,7 @@ public class HunkHeader_ESTest extends HunkHeader_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste possui duplicações em relação ao 0, 4, 5, 6, 8, 10, 12, 13.
+    *     - O teste possui duplicações em relação ao 0, 4, 5, 6, 8, 10, 12 e 13.
     *
     * Compreensivel: sim
     *     - O comportamento do teste e suas instruções são compreesíveis.
@@ -377,7 +377,7 @@ public class HunkHeader_ESTest extends HunkHeader_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste possui duplicações em relação ao 0, 4, 5, 6, 8, 10, 12, 13.
+    *     - O teste possui duplicações em relação ao 0, 4, 5, 6, 8, 10, 12 e 13.
     *
     * Compreensivel: sim
     *     - O comportamento do teste e suas instruções são compreesíveis.
